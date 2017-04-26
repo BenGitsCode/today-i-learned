@@ -34,4 +34,4 @@ Small note: If editing the README, please conform to the [standard-readme](https
 
 ## License
 
- © Ben Adamski
+ © Ben Adamski Distributed under the [Creative Commons Attribution License][license].
