@@ -28,9 +28,11 @@ TODO: Fill out this long description.
 
 See [the contribute file](contribute.md)!
 
-PRs accepted.
+PRs accepted. This is mostly for my own purposes, as a place to store concise tidbits from daily learning but I'm happy to accept contributions that format it better,
+or even if you'd like to share something interesting _you_ learned today. (especially if I agree that it's interesting)
 
-Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+Anything I make asks that contributors adhere to the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
+
 
 ## License
 
