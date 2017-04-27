@@ -22,13 +22,16 @@ Currently there is no installation necessary. The intent is to collect small sni
 
 ```
 ```
+## Maintainers
+
+[@BenGitsCode](https://github.com/BenGitsCode).
 
 ## Contribute
 
 See [the contribute file](contribute.md)!
 
 PRs accepted. This is mostly for my own purposes, as a place to store concise tidbits from daily learning but I'm happy to accept contributions that format it better,
-or even if you'd like to share something interesting _you_ learned today. (especially if I agree that it's interesting)
+or even if you'd like to share something interesting _you_ learned today, I can add you to the maintainers.
 
 Anything I make asks that contributors adhere to the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
 
