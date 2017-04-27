@@ -16,8 +16,7 @@ TODO: Fill out this long description.
 
 ## Install
 
-```
-```
+Currently there is no installation necessary. The intent is to collect small snippets of markdown.
 
 ## Usage
 
