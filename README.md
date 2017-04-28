@@ -5,7 +5,9 @@ TODO: Put more badges here.
 
 > Today I learned... 
 
-TODO: Fill out this long description.
+This was directly pulled from an exercise the @thoughtbot github [here](https://github.com/thoughtbot/til)
+
+I loved the idea and wanted to make one myself.
 
 ## Table of Contents
 
