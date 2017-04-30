@@ -14,6 +14,8 @@ Consider the following from the bash [man page](http://www.gnu.org/software/bash
 
 ## Examples
 
+Consider the following example from this [stackOverflow](#credit)
+
 ### The `&&` List Operator
 ```sh
 $ false && echo howdy!
@@ -36,7 +38,6 @@ howdy!
 ```
 > The `||` operator works in an inverse fashion. In this example, the `echo` executes because the command1(left) has an exit status that returns non-zero (true) exits with non-zero status)
 
-Consider the following example from this [stackOverflow](#credit)
 
 ## Credit
 **Uses Stack Exchange contributions made by [Shawn J. Goff](https://unix.stackexchange.com/users/2180/shawn-j-goff) and [Jeff Schaller](https://unix.stackexchange.com/users/117549/jeff-schaller)**
