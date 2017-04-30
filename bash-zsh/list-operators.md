@@ -12,11 +12,31 @@ Consider the following from the bash [man page](http://www.gnu.org/software/bash
 
 `;` and `||` are a little different and are often used to terminate a list of commands using the the above logical operators.
 
-
-
 ## Examples
+
+### The `&&` List Operator
+```sh
+$ false && echo howdy!
+```
+> The `echo howdy!` will never run becuase the left-side commands exit status of 0 will return false. Command2 (right) on the right side of `&&` will only execute if, and only if, command1(left) returns an exit status of zero. (false exits with zero status)
+```sh
+$ true && echo howdy!
+howdy!
+```
+> In this example, the `echo` executes because the command1(left) has an exit status that returns non-zero (true) exits with non-zero status)
+
+### The `||` List Operator
+```sh
+$ true || echo howdy!
+```
+The `||` operator works in an inverse fashion.
+```
+$ false || echo howdy!
+howdy!
+```
+> The `||` operator works in an inverse fashion. In this example, the `echo` executes because the command1(left) has an exit status that returns non-zero (true) exits with non-zero status)
 
 Consider the following example from this [stackOverflow](#credit)
 
 ## Credit
-**Uses Stack Exchange contributions made by [Simon Whitaker](https://unix.stackexchange.com/users/2180/shawn-j-goff)and [Jeff Schaller](https://unix.stackexchange.com/users/117549/jeff-schaller)**
+**Uses Stack Exchange contributions made by [Shawn J. Goff](https://unix.stackexchange.com/users/2180/shawn-j-goff) and [Jeff Schaller](https://unix.stackexchange.com/users/117549/jeff-schaller)**
