@@ -18,18 +18,18 @@ Consider the following from the bash [man page](http://www.gnu.org/software/bash
 ```sh
 $ false && echo howdy!
 ```
-> The `echo howdy!` will never run becuase the left-side commands exit status of 0 will return false. Command2 (right) on the right side of `&&` will only execute if, and only if, command1(left) returns an exit status of zero. (false exits with zero status)
+>The `echo howdy!` will never run becuase the left-side commands exit status of 0 will return false. Command2 (right) on the right side of `&&` will only execute if, and only if, command1(left) returns an exit status of zero. (false exits with zero status)
 ```sh
 $ true && echo howdy!
 howdy!
 ```
-> In this example, the `echo` executes because the command1(left) has an exit status that returns non-zero (true) exits with non-zero status)
+>In this example, the `echo` executes because the command1(left) has an exit status that returns non-zero (true) exits with non-zero status)
 
 ### The `||` List Operator
 ```sh
 $ true || echo howdy!
 ```
-The `||` operator works in an inverse fashion.
+>The `||` operator works in an inverse fashion. Command2 (right) on the right side of `||` will only execute if, and only if, command1(left) returns an exit status of non-zero. (true exits with non-zero status)
 ```
 $ false || echo howdy!
 howdy!
