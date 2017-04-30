@@ -32,7 +32,7 @@ howdy!
 $ true || echo howdy!
 ```
 >The `||` operator works in an inverse fashion. Command2 (right) on the right side of `||` will only execute if, and only if, command1(left) returns an exit status of non-zero. (true exits with non-zero status)
-```
+```sh
 $ false || echo howdy!
 howdy!
 ```
