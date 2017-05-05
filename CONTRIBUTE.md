@@ -13,15 +13,12 @@ Nothing is ever perfect || finished. All enhancements are welcome.
 [What should I know before I get started?](#what-should-i-know-before-i-get-started)
   * [Code of Conduct](#code-of-conduct)
   * [TIL and Packages](#TIL-and-packages)
-  * [TIL Design Decisions](#design-decisions)
+  * [TIL Styleguides](#styleguides)
 
 [How Can I Contribute?](#how-can-i-contribute)
   * [Suggesting Enhancements](#suggesting-enhancements)
-  * [Your First Code Contribution](#your-first-code-contribution)
+  * [Your First TIL Contribution](#your-first-TIL-contribution)
   * [Pull Requests](#pull-requests)
-
-[Additional Notes](#additional-notes)
-  * [Issue and Pull Request Labels](#issue-and-pull-request-labels)
 
 ## What should I know before I get started?
 
@@ -41,7 +38,7 @@ Before creating enhancement suggestions, please check [this list](#before-submit
 
 #### Before Submitting An Enhancement Suggestion
 
-* **Determine [which repository the enhancement should be suggested in](#TIL-and-packages).**
+* **Determine [which repository thei enhancement should be suggested in](#TIL-and-packages).**
 * **Perform a [cursory search](https://github.com/issues?q=+is%3Aissue+user%3Aatom)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Enhancement Suggestion?
@@ -51,12 +48,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 * **Use a clear and descriptive title** for the issue to identify the suggestion.
 * **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
 * **Provide specific examples to demonstrate the steps**. Include copy/pasteable snippets which you use in those examples, as [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
-* **Describe the current format** and **explain which structure you expected to see instead** and why.
-* **Include screenshots and animated GIFs** which help you demonstrate the steps or point out the part of TIL which the suggestion is related to. You can use [this tool](http://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
-* **Explain why this enhancement would be useful** to most TIL users and isn't something that can or should be implemented as a [community package](#TIL-and-packages).
-* **List some other text editors or applications where this enhancement exists.**
-* **Specify which version of TIL you're using.** You can get the exact version by running `TIL -v` in your terminal, or by starting TIL and running the `Application: About` command from the [Command Palette](https://github.com/TIL/command-palette).
-* **Specify the name and version of the OS you're using.**
+* **Describe the current format** and **explain which structure you woudl prefer to see and why.**
 
 ### Your First TIL  Contribution
 
@@ -68,7 +60,7 @@ If you want to read about using TIL or developing packages in TIL, the [TIL Flig
 
 ### Pull Requests
 
-* Fill in [the required template](PULL_REQUEST_TEMPLATE.md):wq
+* Fill in [the required template](PULL_REQUEST_TEMPLATE.md)
 
 * Include screenshots and animated GIFs in your pull request whenever possible.
 * Your snippet style and structure is up to you, I haven't developed distinct conventions for their structure and I'm not sure I want to. However works best for you to get it out of your brain and on to github easiest, is the right answer. We can always revise it for clarity or accessibility.
