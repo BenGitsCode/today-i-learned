@@ -13,7 +13,7 @@ I loved the idea and wanted to make one myself.
 
 - [Install](#install)
 - [Usage](#usage)
-- [Contribute](#contribute)
+- [Contribute](#CONTRIBUTE)
 - [License](#license)
 
 ## Install
@@ -30,7 +30,7 @@ Currently there is no installation necessary. The intent is to collect small sni
 
 ## Contribute
 
-See [the contribute file](contribute.md)!
+See [the contribute file](CONTRIBUTE.md)!
 
 PRs accepted. This is mostly for my own purposes, as a place to store concise tidbits from daily learning but I'm happy to accept contributions that format it better,
 or even if you'd like to share something interesting _you_ learned today, I can add you to the maintainers.
