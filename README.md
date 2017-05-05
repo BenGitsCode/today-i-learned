@@ -40,4 +40,4 @@ Anything I make asks that contributors adhere to the [Contributor Covenant](http
 
 ## License
 
- © Ben Adamski Distributed under the [Creative Commons Attribution License][license].
+ © Ben Adamski Distributed under the [Creative Commons Attribution License](license).
