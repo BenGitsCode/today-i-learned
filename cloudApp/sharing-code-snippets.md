@@ -1,6 +1,6 @@
 # You Can Quickly Save And Share Any Text As Snippets
 
-TIL that not only can you very easily, very quickly save, upload and share, code snippets using [CloudApp](https://www.getcloudapp.com/?utm_source=bengitscode_github1)], but in trying to find a good way to show how cool it is, I discovered that I can even use [CloudApp](https://cl.ly/kQ05) to record me doing things with [CloudApp](https://my.cl.ly/r/1z0B1n231Z131C0Q). So meta!
+TIL that not only can you very easily, very quickly save, upload and share, code snippets using [CloudApp](https://www.getcloudapp.com/?utm_source=bengitscode_github1), but in trying to find a good way to show how cool it is, I discovered that I can even use [CloudApp](https://cl.ly/kQ05) to record me doing things with [CloudApp](https://my.cl.ly/r/1z0B1n231Z131C0Q). So meta!
 
 Here's an example of me using it.
 
