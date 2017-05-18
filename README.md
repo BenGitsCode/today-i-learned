@@ -3,7 +3,7 @@
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 TODO: Put more badges here.
 
-> Today I learned... 
+> Today I learned...
 
 This was directly pulled from an exercise the [thoughtbot](https://github.com/thoughtbot) github [here](https://github.com/thoughtbot/til)
 
@@ -23,7 +23,15 @@ Currently there is no installation necessary. The intent is to collect small sni
 ## Usage
 
 ```
+Read things => Learn things.✨
 ```
+
+**OR**
+
+```
+Learn things => Contribute❤️
+```
+
 ## Maintainers
 
 [@BenGitsCode](https://github.com/BenGitsCode).
