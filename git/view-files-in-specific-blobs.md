@@ -4,8 +4,6 @@ This is one my favorites and I recently saw a [tweet](https://twitter.com/captai
 from from a different branch, into your current one.
 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">git tip of the day: use &#39;git checkout branch_name -- filename&#39; to fetch a file from another branch to the current one. <a href="https://t.co/SqizLXPAEg">pic.twitter.com/SqizLXPAEg</a></p>&mdash; Safia Abdalla (@captainsafia) <a href="https://twitter.com/captainsafia/status/864246151767261184">May 15, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I use that somewhat frequently but I use this next tip even more often--and it has some really cool optional commands! 🤓
 
