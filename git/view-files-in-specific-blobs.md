@@ -17,7 +17,7 @@ Suppose you want to view a specific file from a specific branch i.e. `What did t
 
 Let's look at an example:
 
-![git show example1](https://cl.ly/kX1H)
+![git show example1](https://cloud.githubusercontent.com/assets/16841950/26235193/88cff1f4-3c37-11e7-86fe-ed19262f2125.gif)
 
 Cool right?
 
@@ -33,7 +33,7 @@ One of my favorite of the aforementioned "really cool optional commands" is usin
 
 Here's another glorious README example to demonstrate:
 
-[![git show > example2](https://cl.ly/kXA2)
+![git show > example2](https://cloud.githubusercontent.com/assets/16841950/26235168/6350f84c-3c37-11e7-9e84-01f850578be8.gif)
 
 
 
