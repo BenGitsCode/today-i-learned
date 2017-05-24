@@ -3,7 +3,10 @@
 This is one of those things that never occurred to me, but once someone pointed
 it out I realized I'm not that surprised. (Thanks @raq929)
 
-Part of it's that I'm new to tech, so a lot of the examples I've seen were
+![sigh](https://s3.amazonaws.com/laurpaik/EmberExample.png)
+*source: [Ember Bindings Documentation](https://guides.emberjs.com/v2.11.0/object-model/bindings/)*
+
+Part of it is that I'm new to tech, so a lot of the examples I've seen were
 written by the people who taught me and who consciously make an effort to
 provide mixed-gender examples or use gender-neutral language [(like saying
 'user' or 'they' instead of 'he' or
