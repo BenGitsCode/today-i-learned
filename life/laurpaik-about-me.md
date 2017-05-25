@@ -6,7 +6,18 @@ like a bulleted list tbh and I don't really plan on pushing this branch let
 alone submitting a pull request lolol but if it accidentally ends up online...
 plz disregard
 
+### Personality
+-   I like to think I don't need validation, but I do.
+-   I don't like being around large groups of people as much as I thought I did.
 
-- I like to think I don't need validation, but I do.
-- I don't like being around large groups of people as much as I thought I did.
--
+### Sexuality
+
+### Health - Use this if you notice something that you kind of want checked out
+
+### Habits
+-   Nervous habits:
+    -   Playing with my hair
+    -   Cracking my knees
+    -   Cracking my neck
+    -   Cracking my knuckles
+    -   Adjusting my clothes
