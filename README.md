@@ -45,6 +45,7 @@ or even if you'd like to share something interesting _you_ learned today, I can 
 
 Anything I make asks that contributors adhere to the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
 
+**Small note:** _If editing the README, please conform to the standard-readme specification._
 
 ## License
 
