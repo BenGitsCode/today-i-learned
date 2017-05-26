@@ -15,6 +15,7 @@ plz disregard
 
 ### Gender and Sexuality
 -   rant: This may or may not make me a hypocrite, but I really don't like when dudes use the word 'pussy'. I've definitely used it before in kind of a humorous context, but never around people I didn't know very well, and I've never used it seriously. It's just one of those words. I wouldn't say 'cunt' in front of people I didn't know either. Idk it's like I'll say 'bitch' every now and then the way straight women say 'girlfriend', but gendered insults aren't really fun when it comes from dudes who use them to demean, especially when one of the people they're referring to is a woman.
+-   I think I love myself more if I take a minute every day to look at myself naked in the mirror. Bodies are beautiful. I forget that about myself a lot, especially when clothes don't fit properly. When I'm naked and I look at myself in the mirror, I remember I'm beautiful and sexy and cool and *human*.
 
 ### Health - Use this if you notice something that you kind of want checked out
 ##### Inspired by Ben's potential cancer lumps
