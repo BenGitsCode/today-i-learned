@@ -2,13 +2,14 @@
 
 This isn't, like, a real one, but I learn new things about myself all the time, and sometimes it's important to have little reminders about it. This'll be more like a bulleted list tbh and I don't really plan on submitting a pull request for this anyway.
 
-## Personality
+## Personality/Trust/Fears
 
 -   I like to think I don't need validation, but I do.
 -   I don't like being around large groups of people as much as I thought I did.
 -   I have a hard time trusting people who talk too quickly when they pitch something to me.
 -   I also have a hard time trusting people who are very clearly withholding information from me.
     -   I'm talking about recruiters, specifically.
+-   Unless something overrides this, I cry maybe once every two years. Usually it takes a really sad episode of something. Either way I need to cry more because it's super refreshing... but I'd rather avoid hardcore emotions, so I tend to not.
 
 <!-- -   I'm more afraid of elevators than I remembered. I think a lot of the claustrophobia aspect comes from Jason. I don't know if it's worse to be stuck in one by myself or fine but with too many people. Probably the former, but being afraid of the latter means I'll never be stuck in one with too many people, so there's that. -->
 
@@ -27,13 +28,13 @@ This isn't, like, a real one, but I learn new things about myself all the time, 
     -   Sparkle Motion goes to Jeff's every year. More friend-love.
     -   There's a bunch of people I've met that I'm friends with and really like, but I haven't been committed to staying in touch with them the way I have been for certain other people, so I wouldn't say I love them. They don't really keep in touch either, so it's all gucci.
     -   Arun and I didn't work out because I wasn't willing to move to bumblefuck Florida for him. Realizing this made me realize I wasn't in love with him anymore, and all of a sudden I didn't really want to have sex with him either because, I mean, Florida is a lot of effort for some booty. He said I emasculated him, but he didn't really want to be there for me either so I guess we're even.
-    -   I'm trying to love myself more, so that's why I write all these TILs about life/make efforts to remember cool things about myself and watch imposter syndrome talks and go to November Project even though it's a cult. #selfcare
+    -   I'm trying to love myself more, so that's why I write all these TILs about life and check myself out in the mirror and watch imposter syndrome talks and go to November Project even though it's a cult. #selfcare
 
 <!--
 -  **I don't think about my good exes as much as I think about Jason.** There's a lot I wish I could have told 18-year-old me, but I can't, so I told 나윤 the other day. She was so fucking cool about it. Six years ago I didn't even know if it counted as rape, and there were all those Republicans trying to define it for us. 나 is fifteen and when I told her I used to hate myself because I didn't know what to call it, she immediately said, "No, that's exactly what he did. He pressured you." I almost cried. She's so freaking wonderful, and I feel like I got six years' worth of anxiety and shit off my chest because I shared that with her and because of how she responded. **Obviously I still struggle and have a hard time in certain situations, but her saying that reminds me that I'm surrounded by people who love me and who will listen.** -->
 
 ## Health - Use this if you notice something that you kind of want checked out
-_Inspired by Ben's potential cancer lumps_
+_Inspired by Ben's potential cancer lumps. Plz don't use this to fuel your hypochondriacal tendencies_
 
 ## Habits
 -   Nervous habits:
@@ -42,6 +43,5 @@ _Inspired by Ben's potential cancer lumps_
     -   Cracking my neck
     -   Cracking my knuckles
     -   Adjusting my clothes
-
-
 -   I complain for the sake of complaining. If I don't get to complain every now and then, I actually end up having a harder time when something real comes up. #debbieDowner amiright
+-   I say `like` way too much.
