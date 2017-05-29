@@ -27,7 +27,7 @@ This isn't, like, a real one, but I learn new things about myself all the time, 
     -   Lex and I call each other every now and then. We're both committed to staying in touch. We love each other as friends. Same goes for Xhepa and Cara and Zach and Brian.
     -   Sparkle Motion goes to Jeff's every year. More friend-love.
     -   There's a bunch of people I've met that I'm friends with and really like, but I haven't been committed to staying in touch with them the way I have been for certain other people, so I wouldn't say I love them. They don't really keep in touch either, so it's all gucci.
-    -   Arun and I didn't work out because I wasn't willing to move to bumblefuck Florida for him. Realizing this made me realize I wasn't in love with him anymore, and all of a sudden I didn't really want to have sex with him either because, I mean, Florida is a lot of effort for some booty. He said I emasculated him, but he didn't really want to be there for me either so I guess we're even.
+    <!-- -   Arun and I didn't work out because I wasn't willing to move to bumblefuck Florida for him. Realizing this made me realize I wasn't in love with him anymore, and all of a sudden I didn't really want to have sex with him either because, I mean, Florida is a lot of effort for some booty. He said I emasculated him, but he didn't really want to be there for me either so I guess we're even. -->
     -   I'm trying to love myself more, so that's why I write all these TILs about life and check myself out in the mirror and watch imposter syndrome talks and go to November Project even though it's a cult. #selfcare
 
 <!--
