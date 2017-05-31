@@ -4,7 +4,7 @@ I'm a big fan of self-care, and I think part of that involves recognizing that y
 
 I have a separate branch on this for my own personal use that at least for the time being, I don't plan on pushing. That said, I wanted to add this because I'm getting a lot out of it and wanted to share the idea.
 
-Basically you call the file `<your-github-name>-about-me.md` in the `life` and treat it like a rolling issue, so you add something you learn about yourself in maybe list-form or diary entry-type posts. The beauty of it is, it doesn't fucking matter how you format this because this is for *you*. *You* decide if you want to push the branch or not. Maybe you find out you did or said something gross and you want to get better about it, and having it documented helps you work on it. Maybe you find out you have mono and you want to tell people to stay away! Who knows! I personally don't need to push my branch up, but the point is, it's *your* decision.
+Basically you call the file `<your-github-name>-about-me.md` in the `life/about-me` directory and treat it like a rolling issue, so you add something you learn about yourself in maybe list-form or diary entry-type posts. The beauty of it is, it doesn't fucking matter how you format this because this is for *you*. *You* decide if you want to push the branch or not. Maybe you find out you did or said something gross and you want to get better about it, and having it documented helps you work on it. Maybe you find out you have mono and you want to tell people to stay away! Who knows! I personally don't need to push my branch up, but the point is, it's *your* decision.
 
 Anyway, if you like examples, I've been doing bulleted lists based on topics:
 ```md
