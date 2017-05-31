@@ -19,6 +19,8 @@ It can be a bit unwieldy (for example, in the following gif you'll see some comm
 
 You can even go one step further by searching within the log by typing `/` your search term, and pressing enter. Press `n` to go to next instance and `N` to go to last instance. For instance, I just searched the word commit, which let me jump from commit to commit (with some small exceptions where I used the word commit in a commit message)
 
+![til-git-log-reverse2](https://cloud.githubusercontent.com/assets/16841950/26650733/608c1fe8-4618-11e7-8f17-62924fe09d60.gif)
+
 ## Examples of use
 
 Consider showing examples in code blocks, with images/gifs or as a simple markdown list of steps.
