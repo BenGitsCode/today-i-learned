@@ -61,6 +61,7 @@ _Inspired by Ben's potential cancer lumps. Plz don't use this to fuel your hypoc
     -   Adjusting my clothes
 -   I complain for the sake of complaining. If I don't get to complain every now and then, I actually end up having a harder time when something real comes up. #debbieDowner amiright
 -   I say `like` way too much.
+-   If I'm at a meetup with too many GA people I tend to join the clump. Need to be better about this because I actually need a network.
 
 ## Other
 -   I think my athletic endurance _might_ be better when I'm listening to classical music. **Look into this later.**
