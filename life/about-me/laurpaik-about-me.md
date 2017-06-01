@@ -67,3 +67,7 @@ _Inspired by Ben's potential cancer lumps. Plz don't use this to fuel your hypoc
 
 ## Other
 -   I think my athletic endurance _might_ be better when I'm listening to classical music. **Look into this later.**
+-   This isn't even about _me_, but either my college roommates are idiots, or dudes literally never have to look at size charts when shopping.
+![ugh](https://cl.ly/050H3C0D0V0F/[02037b6efbcaba54531eee9bc691cda7]_Screen%20Shot%202017-06-01%20at%2010.06.09%20AM.png)
+
+   I can't decide if I'm more mad or jealous.
