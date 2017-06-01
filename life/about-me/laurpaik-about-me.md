@@ -1,6 +1,6 @@
 # Stuff I learn about myself
 
-This isn't useful file for other people, but I learn new things about myself all the time, and sometimes it's important to have little reminders about it. This'll probably be more of a bulleted list and I don't plan on submitting a pull request for this anyway.
+This isn't useful file for other people, but I learn new things about myself all the time, and sometimes it's important to have little reminders about it. This'll probably be more of a bulleted list tbh.
 
 ## Personality/Trust/Fears
 
@@ -18,6 +18,7 @@ This isn't useful file for other people, but I learn new things about myself all
 
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Prob me being paranoid but the yelling man just moved to the seat across me and pointed his phone camera my way. I moved but I&#39;m freaked out</p>&mdash; Lauren Paik (@laurpaikdev) <a href="https://twitter.com/laurpaikdev/status/869170187307810816">May 29, 2017</a></blockquote>
     There's almost never a good reason for it, and for a lot of men it makes them sound unnecessarily violent. (I will say it helps weed them out if they have temper issues that lead to violence, but there are plenty of violent men who know how to appear sympathetic.)
+
     -   I think yesterday was the first time in a while that I was legitimately frightened of a man I didn't know literally just because of how they were talking. It happened a lot more when I was a teen, so it startled me this time, and it threw me off for a full day.
     -   The first time I can really think of off the top of my head was when I was 17 and wandering around Harvard Square and a huge guy started following me and yelling "Konichiwa" at me. When I didn't answer him, he started alternating yelling that and "Ni hao" at me until I made it to my dorm and closed the door behind me.
     -   Fetus Man did this to us a lot. He wasn't actually that big, but he was really scary because he would follow the Planned Parenthood kids around yelling about how we were killing babies. I never got used to it. The cops couldn't do anything because he technically never touched us. He knew they couldn't do anything. He followed me into a building once, and I honest-to-god thought something terrible would happen.
