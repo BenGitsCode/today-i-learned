@@ -1,7 +1,7 @@
 # Documentation can be sexist
 
 This is one of those things that never occurred to me, but once someone pointed
-it out I realized I'm not that surprised. (Thanks @raq929)
+it out I realized I'm not that surprised. (Thanks [@raq929](https://github.com/raq929))
 
 ![sigh](https://s3.amazonaws.com/laurpaik/EmberExample.png)
 *source: [Ember Bindings Documentation](https://guides.emberjs.com/v2.11.0/object-model/bindings/)*
