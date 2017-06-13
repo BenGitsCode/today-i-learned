@@ -67,6 +67,10 @@ This isn't useful file for other people, but I learn new things about myself all
 ## Health - Use this if you notice something that you kind of want checked out
 _Inspired by Ben's potential cancer lumps. Plz don't use this to fuel your hypochondriacal tendencies_
 
+-   _2017-06-12:_ My ankles have been hurting lately. I don't know if it's because I skated to the T the other day or what, but I'm a little concerned. It's mostly my right ankle.
+    -   **NOTE TO SELF**: stretch/rotate ankles during stretch routine
+    -   _Side Note_: acquire a tennis ball
+
 ## Habits
 -   Nervous habits:
     -   Playing with my hair
