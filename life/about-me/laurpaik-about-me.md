@@ -29,6 +29,14 @@ This isn't useful file for other people, but I learn new things about myself all
 
 -   **I apparently have one of those faces that people just talk to.** It's not just because I sit at the coffee corner all the time. People ask me to take their pictures and to help them with directions. People ask me relationship advice even though I'm single. People tell me their daddy issues. I'm not even kidding on that last one. _Three people in the last week have told me about their daddy issues._ I don't even know two of them that well. I don't get it.
 
+-   **I have a lot more patience with people than I thought I did.** I think it's just if I think they're making an effort, though. There are people I didn't click with right away when I first met them, and now they're okay. I think in general if I give someone social cues or direct rules about how to approach me and they follow them, I'm more willing to give a second chance.
+    -   The recruiter today is an interesting example of it. He was the first guy to follow up with me and even ask why I wasn't interested in a position, so I told him, which I wouldn't usually do, and he actually responded to me in a reasonable manner.
+    -   Some of the 017/LM01 devs, too-- by this point they all ~~should~~ know I'll only respond if there's an issue open, and they're respecting that, and that's really all I ask. I don't like, follow the issue queue or anything, but I told a few people that if they're desperate and slack me a link to their issue I'll try to look at it at some point. I'm not necessarily super helpful with it, but I think it's a good placebo for them just to feel like they have another set of eyes.
+    -   One person I told straight up I wouldn't explicitly help her without an open issue, but she could rubber duck at me on slack if she wanted, and I think it helped? Idk, she was really nice to me about it later and I don't even really know what problem she had, but it's kind of nice to know that someone's happy they can message me.
+    -   I guess in retrospect I knew I had slightly more patience with women? I mean, I found this pretty relatable:
+    ![relatable content](https://cl.ly/3d253B2D3X3A/download/[67f6562ba6c63bc45174cf8ef9d7b28c]_Screen%20Shot%202017-06-12%20at%209.04.00%20PM.png)
+    -   That said, when I've decided I'm done dealing with a person, I'm **done.**
+
 ## Gender and Sexuality
 
 -   rant: This may or may not make me a hypocrite, but **I really hate when dudes use the word 'pussy'.** I've definitely used it before in kind of a humorous context, but never around people I didn't know very well, and I've never used it seriously. It's just one of those words. I wouldn't say 'cunt' in front of people I didn't know either. I'll say 'bitch' every now and then the way straight women say 'girlfriend', but gendered insults aren't really fun when it comes from dudes who use them to demean, especially when one of the people they're referring to is a woman.
@@ -58,6 +66,10 @@ This isn't useful file for other people, but I learn new things about myself all
 
 ## Health - Use this if you notice something that you kind of want checked out
 _Inspired by Ben's potential cancer lumps. Plz don't use this to fuel your hypochondriacal tendencies_
+
+-   _2017-06-12:_ My ankles have been hurting lately. I don't know if it's because I skated to the T the other day or what, but I'm a little concerned. It's mostly my right ankle.
+    -   **NOTE TO SELF**: stretch/rotate ankles during stretch routine
+    -   _Side Note_: acquire a tennis ball
 
 ## Habits
 -   Nervous habits:
