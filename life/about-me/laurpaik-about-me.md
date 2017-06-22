@@ -1,6 +1,6 @@
 # Stuff I learn about myself
 
-This isn't useful file for other people, but I learn new things about myself all the time, and sometimes it's important to have little reminders about it. This'll probably be more of a bulleted list tbh.
+This isn't a useful file for other people, but I learn new things about myself all the time, and sometimes it's important to have little reminders about it. This'll probably be more of a bulleted list tbh. [Here](https://github.com/BenGitsCode/today-i-learned/blob/master/life/about-me/about-me-instructions.md) are guidelines if you want to make your own about-me file!
 
 ## Personality/Trust/Fears
 
@@ -39,11 +39,11 @@ This isn't useful file for other people, but I learn new things about myself all
 
 -   I'm not afraid of the dark, but I just found out **I'm really afraid of walking home alone in the dark**. Last night I was walking home because I missed the bus, and I guess I never realized how _Newton doesn't really have streetlights_. I was on the phone with my girl Ayanna and this guy showed up out of ~~nowhere~~ the shadows, and I startle easily so I kind of got freaked out and had to ask her to pause and write down my whereabouts in case we got cut off. When we hung up I ended up tweeting the same thing.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Currently walking home in the dark I&#39;m on Parker street in Newton and if I don&#39;t tweet again in an hour call the cops <a href="https://twitter.com/hashtag/selfcare?src=hash">#selfcare</a> <a href="https://twitter.com/hashtag/safetyfirst?src=hash">#safetyfirst</a></p>&mdash; Lauren Paik (@laurpaikdev) <a href="https://twitter.com/laurpaikdev/status/877353179909959680">June 21, 2017</a></blockquote>
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Currently walking home in the dark I&#39;m on Parker street in Newton and if I don&#39;t tweet again in an hour call the cops <a href="https://twitter.com/hashtag/selfcare?src=hash">#selfcare</a> <a href="https://twitter.com/hashtag/safetyfirst?src=hash">#safetyfirst</a></p>&mdash; Lauren Paik (@laurpaikdev) <a href="https://twitter.com/laurpaikdev/status/877353179909959680">June 21, 2017</a></blockquote>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/woolpapersugar">@woolpapersugar</a> Home safe and sound! Love y&#39;all 😘</p>&mdash; Lauren Paik (@laurpaikdev) <a href="https://twitter.com/laurpaikdev/status/877361506387668992">June 21, 2017</a></blockquote>
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/woolpapersugar">@woolpapersugar</a> Home safe and sound! Love y&#39;all 😘</p>&mdash; Lauren Paik (@laurpaikdev) <a href="https://twitter.com/laurpaikdev/status/877361506387668992">June 21, 2017</a></blockquote>
 
-I think part of it might be I'm a little afraid of nobody knowing where I am and everybody assuming I just didn't say anything. Maybe that's why I like to stick to a schedule? I had a nightmare ~~right after I quit Flatbread and had no roommates and was watching a few too many crime dramas~~ about getting killed or kidnapped or something and nobody realized it for over a week. I figure if I'm consistently at a place where people recognize me, somebody will hopefully notice if I don't show up for a while for no particular reason. I get that that's hoping for a lot, but if I tell myself that, it's a good enough placebo that I can deal with it.
+    I think part of it might be I'm a little afraid of nobody knowing where I am and everybody assuming I just didn't say anything. Maybe that's why I like to stick to a schedule? I had a nightmare ~~right after I quit Flatbread and had no roommates and was watching a few too many crime dramas~~ about getting killed or kidnapped or something and nobody realized it for over a week. I figure if I'm consistently at a place where people recognize me, somebody will hopefully notice if I don't show up for a while for no particular reason. I get that that's hoping for a lot, but if I tell myself that, it's a good enough placebo that I can deal with it.
 
 ## Gender and Sexuality
 
