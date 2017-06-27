@@ -44,14 +44,12 @@ This isn't a useful file for other people, but I learn new things about myself a
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/woolpapersugar">@woolpapersugar</a> Home safe and sound! Love y&#39;all 😘</p>&mdash; Lauren Paik (@laurpaikdev) <a href="https://twitter.com/laurpaikdev/status/877361506387668992">June 21, 2017</a></blockquote>
 
     I think part of it might be I'm a little afraid of nobody knowing where I am and everybody assuming I just didn't say anything. Maybe that's why I like to stick to a schedule? I had a nightmare ~~right after I quit Flatbread and had no roommates and was watching a few too many crime dramas~~ about getting killed or kidnapped or something and nobody realized it for over a week. I figure if I'm consistently at a place where people recognize me, somebody will hopefully notice if I don't show up for a while for no particular reason. I get that that's hoping for a lot, but if I tell myself that, it's a good enough placebo that I can deal with it.
+-   **It's okay to be sad.**
+-   Too much attention is stressful when you're sad.
 
 ## Gender and Sexuality
-
--   rant: This may or may not make me a hypocrite, but **I really hate when dudes use the word 'pussy'.** I've definitely used it before in kind of a humorous context, but never around people I didn't know very well, and I've never used it seriously. It's just one of those words. I wouldn't say 'cunt' in front of people I didn't know either. I'll say 'bitch' every now and then the way straight women say 'girlfriend', but gendered insults aren't really fun when it comes from dudes who use them to demean, especially when one of the people they're referring to is a woman.
-
-
--   **I think I love myself more if I take a minute every day to look at myself naked in the mirror.** Bodies are beautiful. I forget that about myself a lot, especially when clothes don't fit properly. When I'm naked and I look at myself in the mirror, I remember I'm beautiful and sexy and cool and _human_.
-
+<!--
+-   rant: This may or may not make me a hypocrite, but **I really hate when dudes use the word 'pussy'.** I've definitely used it before in kind of a humorous context, but never around people I didn't know very well, and I've never used it seriously. It's just one of those words. I wouldn't say 'cunt' in front of people I didn't know either. I'll say 'bitch' every now and then the way straight women say 'girlfriend', but gendered insults aren't really fun when it comes from dudes who use them to demean, especially when one of the people they're referring to is a woman. -->
 
 -   I don't really know when I learned/decided this, but I've started to realize that **love is not just a feeling, it's a commitment.** I think if I'm committed to someone both physically and mentally, I can say I love them. Physical commitment doesn't mean sex, it's a willingness to respect others' physical needs/be there for them. Love comes in different flavors and you can have different kinds of love for different people. **The type of love you have is defined by the level of commitment you have to a person.**
     -   I drive grandma to K-town and carry tables for her and mail her bills.
@@ -63,6 +61,8 @@ This isn't a useful file for other people, but I learn new things about myself a
     <!-- -   Arun and I didn't work out because I wasn't willing to move to bumblefuck Florida for him. Realizing this made me realize I wasn't in love with him anymore, and all of a sudden I didn't really want to have sex with him either because, I mean, Florida is a lot of effort for some booty. He said I emasculated him, but he didn't really want to be there for me either so I guess we're even. -->
     -   I'm trying to love myself more, so that's why I write all these TILs about life and check myself out in the mirror and watch imposter syndrome talks and go to November Project even though it's a cult. #selfcare
 -   Maybe there's a better word than `love` for what I'm describing, but that's how I'm going with this for now because who even really knows what love is tbh. Romance isn't love, but love can have romance. May edit the above bullet as I discover more about life.
+
+-   **I think I love myself more if I take a minute every day to look at myself naked in the mirror.** Bodies are beautiful. I forget that about myself a lot, especially when clothes don't fit properly. When I'm naked and I look at myself in the mirror, I remember I'm beautiful and sexy and cool and _human_.
 
 <!--
 -  **I don't think about my good exes as much as I think about Jason.** There's a lot I wish I could have told 18-year-old me, but I can't, so I told 나윤 the other day. She was so fucking cool about it. Six years ago I didn't even know if it counted as rape, and there were all those Republicans trying to define it for us. 나 is fifteen and when I told her I used to hate myself because I didn't know what to call it, she immediately said, "No, that's exactly what he did. He pressured you." I almost cried. She's so freaking wonderful, and I feel like I got six years' worth of anxiety and shit off my chest because I shared that with her and because of how she responded. **Obviously I still struggle and have a hard time in certain situations, but her saying that reminds me that I'm surrounded by people who love me and who will listen.** -->
