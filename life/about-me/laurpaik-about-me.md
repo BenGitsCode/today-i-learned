@@ -82,6 +82,19 @@ _Inspired by Ben's potential cancer lumps. Plz don't use this to fuel your hypoc
     -   _Side Note_: acquire a tennis ball
     -   _2017-06-15 update_: I stopped going down the stairs laterally and now my ankles feel better.
 -   I'm learning how to trust my body a lot more in terms of food and exercise. I mean, I guess I've been learning this for over 10 years now, but I feel more aware of it than I did before. I'm still a little bit in denial about my sweet tooth dying. That said, I'm eating less bread/pasta and to be honest, I feel great. I powered through 29 sections at the stadium during NP today (_2017-06-21_), and usually I only get to 23 or 24. And the thing is, I didn't start eating better until I started working out again because once I got on a workout schedule, my body couldn't handle the junk I used to eat. Now that I'm kind of getting into a system my food and my exercise are balancing each other out.
+-   _2017-06-28_ Mental heath day thoughts:
+
+| Pros to staying home | Cons |
+| ----------- | ------------- |
+| no people to stress me out | got no work done bc too comfortable |
+| catch up on sleep | more likely to fall asleep because the bed is right there |
+| better food | not as hungry :/ |
+| can run errands | unaccomplished/disoriented feeling  |
+| can talk to friends on the phone | |
+| more motivated to go back to the office setting | (bc I don't like being unproductive, but I can't focus at home) |
+| more time/space to workout/stretch | cabin fever |
+-   I think my issue was I didn't really take two days off to "work from home." I mean, I stayed home more for emotional reasons than any. Maybe if the **main purpose** was to actually work from home I'd go to a coffeeshop or something, but I needed these two days to just not and I don't have too many regrets about that. I needed to be away because it was too stressful to compose myself around people, especially because they kept finding me when I was hiding... But if I stay away from friends for _too_ long then I guess I end up apathetic and unmotivated. Does that make me more of an extrovert? idk
+    -   _Takeaway point:_ Don't work from home. If you need to stay home, don't delude yourself into thinking you're gonna work. If you need to work remotely, go to a coffeeshop.
 
 ## Habits
 -   Nervous habits:
@@ -98,5 +111,5 @@ _Inspired by Ben's potential cancer lumps. Plz don't use this to fuel your hypoc
 -   I think my athletic endurance _might_ be better when I'm listening to classical music. **Look into this later.**
 -   I definitely respond better to sound effects. In crew, it's easy-- just make some sort of sound when the oar hits/would hit the rigger. Running is a little harder, but I mean, I respond to good beats, so there's that.
 -   Ngl, I miss coxing. I get a kick out of yelling at people in a motivational way, but that kind of volume and tone of voice if often frowned upon in polite society.
--   This isn't even about _me_, but either my college roommates are idiots, or dudes literally never have to look at size charts when shopping.
-![ugh](https://cl.ly/050H3C0D0V0F/[02037b6efbcaba54531eee9bc691cda7]_Screen%20Shot%202017-06-01%20at%2010.06.09%20AM.png) I can't decide if I'm more mad or jealous.
+-   This isn't even about _me_, but either my college roommates are idiots, or dudes literally never have to look at size charts when shopping. I can't decide if I'm more mad or jealous.
+![ugh](https://cl.ly/050H3C0D0V0F/[02037b6efbcaba54531eee9bc691cda7]_Screen%20Shot%202017-06-01%20at%2010.06.09%20AM.png)
