@@ -17,3 +17,15 @@ That said, if there _is_ a non-change, if you choose to split it into smaller hu
 ![2nd continued](https://cl.ly/0m1E29421G3t/Screen%20Shot%202017-06-30%20at%204.14.18%20PM.png)
 
 I have a feeling things like `J` only work after at least one `s`, so I might keep playing around with this, but at least I'm not confused anymore.
+
+**Update:**
+Ben has apparently been given split hunks as the first prompt before any staged changes, so I tried it out again and if the non-changes are so long git decides to split it, it will split it.
+
+**Second Update**
+Oh my god, it's based on the `@@ <change>,<from-file-line-numbers> <change>,<to-file-line-numbers> @@`
+![](https://cl.ly/2S3X3Q0D1K2P/Screen%20Shot%202017-06-30%20at%205.02.20%20PM.png)
+![](https://cl.ly/2k0J1V092r18/Screen%20Shot%202017-06-30%20at%205.00.57%20PM.png)
+
+Thank you to [this](https://stackoverflow.com/questions/10950412/what-does-1-1-mean-in-gits-diff-output) Stack Overflow question/answer and [this](http://www.gnu.org/software/diffutils/manual/diffutils.html#Detailed-Unified) documentation.
+
+I guess my main takeaway point is that hunks are determined/split by non-changes, and if that non-change is large enough that git would cut it out in the commit diff anyway.
