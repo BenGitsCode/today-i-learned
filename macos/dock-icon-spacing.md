@@ -10,7 +10,7 @@ It's really easy to do, even if you're not a terminal savvy developer.
 1. enter `defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock` and press enter.
 1. This will create a single blank tile in your dock. Simply make as many as you'd like and move them around as see fit. You can always delete a blank space with right-click -> remove from dock.
 
-[![Watch the video](https://github.com/BenGitsCode/today-i-learned/raw/master/assets/media/dock-icon-spacing-image.png)](https://cl.ly/lkGT)
+[![Watch the video](https://github.com/BenGitsCode/today-i-learned/raw/master/assets/media/dock-icon-spacing-image.png)](https://cl.ly/lkar)
 
 
 
