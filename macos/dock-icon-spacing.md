@@ -1,4 +1,4 @@
-# Today I learned...How to Add Margins to My macOS Dock.
+# Today I learned...How to Add Margins to My macOS Dock Icons.
 
 
 
