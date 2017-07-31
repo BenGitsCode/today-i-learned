@@ -5,7 +5,7 @@ TODO: Put more badges here.
 
 > Today I learned...
 
-This was directly pulled from an exercise the [thoughtbot](https://github.com/thoughtbot) github [here](https://github.com/thoughtbot/til)
+This was directly pulled from an exercise on the [thoughtbot](https://github.com/thoughtbot) github [here](https://github.com/thoughtbot/til)
 
 I loved the idea and wanted to make one myself.
 
