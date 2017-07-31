@@ -3,12 +3,17 @@
 Brief background/introduction e.g. `I've been using this lately
 
 
-Consider the following from the bash
+These all produce exactly the same output.
 
 ## Examples of use
 
-Consider showing examples in code blocks, with images/gifs or as a simple markdown list of steps.
 
+```sh
+
+cat foo.txt bar.txt >new.txt
+cat >new.txt foo.txt bar.txt
+>new.txt cat foo.txt bar.txt
+```
 
 
 ## Credit -- always credit any relevant sources below example is a nice format for crediting StackExchange posts. **Nothing is too small to give the source attribution credit.**
