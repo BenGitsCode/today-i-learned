@@ -16,6 +16,6 @@ cat >new.txt foo.txt bar.txt
 ```
 
 
-## Credit -- always credit any relevant sources below example is a nice format for crediting StackExchange posts. **Nothing is too small to give the source attribution credit.**
+## Credit:
 
-**Found in tweet made by [@isislovecruf](https://twitter.com/isislovecruft/) ![here](https://twitter.com/isislovecruft/status/891035748778029056)**
+**Found in tweet made by [@isislovecruf](https://twitter.com/isislovecruft/) ![here](https://cl.ly/2P2q1r0K3n0e/download/Image%202017-07-31%20at%201.42.14%20PM.png)**
