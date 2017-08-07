@@ -1,9 +1,8 @@
 # Today I learned...
 
-Brief background/introduction e.g. `I've been using this lately
+...something new about how `cat` works.
 
-
-These all produce exactly the same output.
+These all produce exactly the same output. 🙀
 
 ## Examples of use
 
