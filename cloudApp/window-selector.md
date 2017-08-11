@@ -22,4 +22,4 @@ Turns out I've been doing it all wrong. Maybe this has feature has been there a 
 
 ## Credit
 
-**Discovered like so many other shortcuts, by accidentally fat fingering something turning into "ooh what's this?"**
+**Discovered like so many other shortcuts, by accidentally fat fingering something and then going "ooh what's this?"**
