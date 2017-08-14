@@ -6,11 +6,13 @@ From it's [README](https://github.com/joeyespo/grip):
 
 > "Grip is a command-line server application written in Python that uses the GitHub markdown API to render a local readme file. The styles come directly from GitHub, so you'll know exactly how it will appear. Changes you make to the Readme will be instantly reflected in the browser without requiring a page refresh."
 
+## Installation
 
+You can install using Python's `pip` or using [HomeBrew](https://github.com/Homebrew) on macOS.
 
 ## Examples of use
 
-Consider showing examples in code blocks, with images/gifs or as a simple markdown list of steps.
+Once you have it installed
 
 
 
