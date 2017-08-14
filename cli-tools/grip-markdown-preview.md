@@ -8,7 +8,12 @@ From it's [README](https://github.com/joeyespo/grip):
 
 ## Installation
 
-You can install using Python's `pip` or using [HomeBrew](https://github.com/Homebrew) on macOS.
+You can install using Python's [pip](https://github.com/pypa/pip) or using [HomeBrew](https://github.com/Homebrew) on macOS.
+
+[How-to-install-grip](https://github.com/joeyespo/grip#installation)
+
+1. Install with `pip`..👉   `$ pip install grip`
+1. Install on OS X....👉   `$ brew install grip`
 
 ## Examples of use
 
