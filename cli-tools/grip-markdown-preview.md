@@ -1,9 +1,12 @@
 # Today I learned...
 
-Brief background/introduction e.g. `I've been using this lately`
+About an awesome way to render readme files locally, before pushing them to github.
+
+From it's [README](https://github.com/joeyespo/grip):
+
+> "Grip is a command-line server application written in Python that uses the GitHub markdown API to render a local readme file. The styles come directly from GitHub, so you'll know exactly how it will appear. Changes you make to the Readme will be instantly reflected in the browser without requiring a page refresh."
 
 
-Consider the following from the bash
 
 ## Examples of use
 
