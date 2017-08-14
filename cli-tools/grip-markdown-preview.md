@@ -17,7 +17,9 @@ You can install using Python's [pip](https://github.com/pypa/pip) or using [Home
 
 ## Examples of use
 
-Once you have it installed
+Once you have it installed simply `$ grip` to serve the README of the current directory or `grip <filename>` to serve any other markdown files by name.
+
+To learn about some additional options, such as specifying the port used, or how to use their API, see the [grip-documentation](https://github.com/joeyespo/grip)
 
 
 
