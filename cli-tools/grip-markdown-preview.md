@@ -21,6 +21,7 @@ Once you have it installed simply `$ grip` to serve the README of the current di
 
 To learn about some additional options, such as specifying the port used, or how to use their API, see the [grip-documentation](https://github.com/joeyespo/grip)
 
+That's all, now you'll never push broken links to GitHub ever again, right? 😏
 
 
 ## Credit:
