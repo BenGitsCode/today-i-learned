@@ -23,6 +23,6 @@ To learn about some additional options, such as specifying the port used, or how
 
 
 
-## Credit -- always credit any relevant sources below example is a nice format for crediting StackExchange posts. **Nothing is too small to give the source attribution credit.**
+## Credit:
 
-**Uses Stack Exchange contributions made by [<nameHere>](<sourceHere>) **
+> **On GitHub attributed to [*@joeyespo*](https://github.com/joeyespo/) and can be found [here](https://github.com/joeyespo/grip)**
