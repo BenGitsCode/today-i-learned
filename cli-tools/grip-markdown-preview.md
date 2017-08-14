@@ -23,6 +23,8 @@ To learn about some additional options, such as specifying the port used, or how
 
 That's all, now you'll never push broken links to GitHub ever again, right? 😏
 
+[![grip-in-action](https://cl.ly/m09e/Image%202017-08-14%20at%201.50.18%20PM.png)](https://cl.ly/lzLo)
+
 
 ## Credit:
 
