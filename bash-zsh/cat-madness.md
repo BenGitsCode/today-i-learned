@@ -14,7 +14,7 @@ cat >new.txt foo.txt bar.txt
 >new.txt cat foo.txt bar.txt
 ```
 
-For example, to begin this TIL I entered into the terminal `cat til-template.md >bash-zsh/cat-madness.md` which should the contents of the til-template into a new file called cat-madness. I also could have used `cat til-template > bash-zsh/cat-madness.md` **OR** `>bash-zsh/cat-madness.md cat til-template.md`
+For example, to begin this TIL I entered into the terminal `cat til-template.md >bash-zsh/cat-madness.md` which shoveled the contents of the til-template into a new file called cat-madness. I also could have used `cat til-template > bash-zsh/cat-madness.md` **OR** `>bash-zsh/cat-madness.md cat til-template.md`
 
 
 ## Credit:
