@@ -54,9 +54,9 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 
 Unsure where to begin contributing to TIL?
 
-Don't be! No snippet of knowledge is too small. Did you find
+✨ Don't be! No snippet of knowledge is too small! ✨
 
-If you want to read about using TIL or developing packages in TIL, the [TIL Flight Manual](http://flight-manual.TIL.io) is free and available online. You can find the source to the manual in [TIL/flight-manual.TIL.io](https://github.com/TIL/flight-manual.TIL.io).
+Whether its opening an issue pointing out one of my broken links or typos, or just sharing some small code snippet, trick, hack or anything else--don't overthink it! If it feels incomplete we'll ask you to expound upon it. Make it, think about it tomorrow.
 
 ### Pull Requests
 
