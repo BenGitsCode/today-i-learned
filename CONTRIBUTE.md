@@ -48,7 +48,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 * **Use a clear and descriptive title** for the issue to identify the suggestion.
 * **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
 * **Provide specific examples to demonstrate the steps**. Include copy/pasteable snippets which you use in those examples, as [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
-* **Describe the current format** and **explain which structure you woudl prefer to see and why.**
+* **Describe the current format** and **explain which structure you would prefer to see and why.**
 
 ### Your First TIL  Contribution
 
