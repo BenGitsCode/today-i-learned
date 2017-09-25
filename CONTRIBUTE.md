@@ -38,7 +38,7 @@ Before creating enhancement suggestions, please check [this list](#before-submit
 
 #### Before Submitting An Enhancement Suggestion
 
-* **Determine [which repository thei enhancement should be suggested in](#TIL-and-packages).**
+* **Determine [which repository the enhancement should be suggested in](#TIL-and-packages).**
 * **Perform a [cursory search](https://github.com/issues?q=+is%3Aissue+user%3Aatom)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Enhancement Suggestion?
