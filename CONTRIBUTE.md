@@ -60,7 +60,8 @@ If you want to read about using TIL or developing packages in TIL, the [TIL Flig
 
 ### Pull Requests
 
-* Fill in [the required template](PULL_REQUEST_TEMPLATE.md)
+* There is currently no formal pull request flow or template, I'm more concerned with making it easy and comfortable for people to share
+anything they think is fun, interesting or provides significant utility. I'd love to have a template and I'm open to suggestions.
 
 * Include screenshots and animated GIFs in your pull request whenever possible.
 * Your snippet style and structure is up to you, I haven't developed distinct conventions for their structure and I'm not sure I want to. However works best for you to get it out of your brain and on to github easiest, is the right answer. We can always revise it for clarity or accessibility.
