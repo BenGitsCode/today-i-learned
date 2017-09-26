@@ -1,6 +1,8 @@
 # Today I learned...
 
-Brief background/introduction e.g. `I've been using this lately`
+That you can colorize objects for output in node!
+
+
 
 
 Consider the following from the bash
@@ -13,4 +15,4 @@ Consider showing examples in code blocks, with images/gifs or as a simple markdo
 
 ## Credit -- always credit any relevant sources below example is a nice format for crediting StackExchange posts. **Nothing is too small to give the source attribution credit.**
 
-**Uses Stack Exchange contributions made by [<nameHere>](<sourceHere>) **
+**Pulled from my twitter feed, author =>  [[@umaar](https://twitter.com/umaar)](https://twitter.com/umaar/status/912630316338225152) **
