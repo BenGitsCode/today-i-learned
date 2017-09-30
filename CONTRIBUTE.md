@@ -59,7 +59,7 @@ Whether it's opening an issue pointing out one of my broken links or just sharin
 
 ### Pull Requests
 
-* There is currently no formal pull request flow or template, I'm more concerned with making it easy and comfortable for people to share
+* There is currently no formal pull request flow or template. I'm more concerned with making it easy and comfortable for people to share
 anything they think is fun, interesting or provides significant utility. I'd love to have a template and I'm open to suggestions.
 
 * Include screenshots and animated GIFs in your pull request whenever possible.
