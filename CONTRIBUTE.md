@@ -55,7 +55,7 @@ Unsure where to begin contributing to TIL?
 
 ✨ Don't be! No snippet of knowledge is too small! ✨
 
-Whether it's opening an issue pointing out one of my broken links or just sharing some small code snippet--don't overthink it! If it feels incomplete we'll ask you to expound upon it. Make it, think about it tomorrow.
+Whether it's opening an issue pointing out one of my broken links or just sharing some small code snippet--don't overthink it!
 
 ### Pull Requests
 
