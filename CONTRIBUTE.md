@@ -12,7 +12,6 @@ Nothing is ever perfect || finished. All enhancements are welcome.
 
 [What should I know before I get started?](#what-should-i-know-before-i-get-started)
   * [Code of Conduct](#code-of-conduct)
-  * [TIL and Packages](#TIL-and-packages)
   * [TIL Styleguides](#styleguides)
 
 [How Can I Contribute?](#how-can-i-contribute)
@@ -38,29 +37,30 @@ Before creating enhancement suggestions, please check [this list](#before-submit
 
 #### Before Submitting An Enhancement Suggestion
 
-* **Determine [which repository thei enhancement should be suggested in](#TIL-and-packages).**
-* **Perform a [cursory search](https://github.com/issues?q=+is%3Aissue+user%3Aatom)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+* **Determine which section or directory the enhancement should be suggested for.**
+* **Perform a [cursory search](https://github.com/BenGitsCode/today-i-learned/issues)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Enhancement Suggestion?
 
-Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com/features/issues/). After you've determined [which repository](#TIL-and-packages) your enhancement suggestion is related to, create an issue on that repository and provide the following information:
+Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com/features/issues/). After you've determined which directory or section your enhancement suggestion is related to, create an issue [here](https://github.com/BenGitsCode/today-i-learned/issues/new) and provide the following information:
 
 * **Use a clear and descriptive title** for the issue to identify the suggestion.
 * **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
 * **Provide specific examples to demonstrate the steps**. Include copy/pasteable snippets which you use in those examples, as [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
-* **Describe the current format** and **explain which structure you woudl prefer to see and why.**
+* **Describe the current format** and **explain which structure you would prefer to see and why.**
 
 ### Your First TIL  Contribution
 
 Unsure where to begin contributing to TIL?
 
-Don't be! No snippet of knowledge is too small. Did you find
+✨ Don't be! No snippet of knowledge is too small! ✨
 
-If you want to read about using TIL or developing packages in TIL, the [TIL Flight Manual](http://flight-manual.TIL.io) is free and available online. You can find the source to the manual in [TIL/flight-manual.TIL.io](https://github.com/TIL/flight-manual.TIL.io).
+Whether it's opening an issue pointing out one of my broken links or just sharing some small code snippet--don't overthink it!
 
 ### Pull Requests
 
-* Fill in [the required template](PULL_REQUEST_TEMPLATE.md)
+* There is currently no formal pull request flow or template. I'm more concerned with making it easy and comfortable for people to share
+anything they think is fun, interesting or provides significant utility. I'd love to have a template and I'm open to suggestions.
 
 * Include screenshots and animated GIFs in your pull request whenever possible.
 * Your snippet style and structure is up to you, I haven't developed distinct conventions for their structure and I'm not sure I want to. However works best for you to get it out of your brain and on to github easiest, is the right answer. We can always revise it for clarity or accessibility.

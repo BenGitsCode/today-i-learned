@@ -2,8 +2,7 @@
 
 Brief background/introduction e.g. `I've been using this lately`
 
-
-Consider the following from the bash
+Why is it cool? What's the gist? How do you use it? How do you plan to use it in the future?
 
 ## Examples of use
 
