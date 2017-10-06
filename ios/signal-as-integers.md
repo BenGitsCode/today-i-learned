@@ -4,7 +4,7 @@ This isn't any kind of deal-breaker for me but I never did like the little circl
 
 Here's how to change it (you can change it back at any time):
 
-1.  Open the phone app and dial `*3001#12345$*`.
+1.  Open the phone app and dial `*3001#12345#*`.
 1.  Press the `Call` button.
 1.  You're now in `Field Test Mode` and will see the numbers for reception and menus full of other nifty features to play with. If you hit the `Home` button, you'll quit out of the Field Test and the signal indicator will return to dots.
 
