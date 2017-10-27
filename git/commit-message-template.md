@@ -12,6 +12,6 @@ Consider showing examples in code blocks, with images/gifs or as a simple markdo
 
 
 
-## Credit -- always credit any relevant sources below example is a nice format for crediting StackExchange posts. **Nothing is too small to give the source attribution credit.**
+## Credit
 
-**Uses Stack Exchange contributions made by [<nameHere>](<sourceHere>) **
+** I've seen this a few places but the first was [here](https://robots.thoughtbot.com/better-commit-messages-with-a-gitmessage-template) by [Thoughtbot](https://thoughtbot.com/)  **
